@@ -1,4 +1,3 @@
-# models.py
 import mongoengine as me
 import connect
 
